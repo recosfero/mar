@@ -1,0 +1,25 @@
+channels:
+- r
+- bioconda
+- conda-forge
+dependencies:
+- samtools=1.8
+- bowtie=1.2.2
+- r=3.4.1
+- r-dplyr
+- r-ggplot2
+- r-tidyr
+- r-reshape2
+- r-tibble
+- r-stringr
+- r-rlang
+- r-readr
+- bioconductor-rbowtie
+- bioconductor-arrayexpress
+- bioconductor-geoquery
+- bioconductor-oligo
+- bioconductor-limma
+- bioconductor-biomart
+- bioconductor-topgo
+- bioconductor-biostrings
+- bioconductor-go.db
