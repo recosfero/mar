@@ -25,16 +25,3 @@ From: ubuntu:16.04
     export LC_ALL=en_US.UTF-8
     export PATH=/opt/miniconda3/bin:$PATH
 
-%apphelp samtools
-    "samtools version 1.7"
-
-%apprun samtools
-    /opt/miniconda3/bin/samtools
-
-%apphelp bwa
-    "BWA version 0.7.8"
-
-%apprun bwa
-    /opt/miniconda3/bin/bwa
-
-
